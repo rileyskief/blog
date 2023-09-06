@@ -1,7 +1,7 @@
 title: Your awesome title
 author:
   name: Riley Skief
-  email: your-email@domain.com
+  email: skiefri@hendrix.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
