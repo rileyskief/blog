@@ -13,3 +13,7 @@ She loves going on walks, steamed broccoli, and she will forever love her sister
     ![Dogs, Mollie and Ginger](IMG_9905.JPG)
 
 
+<img src="IMG_9905.JPG"
+     alt="dogs"
+     style="float: left; margin-right: 10px;" />
+
