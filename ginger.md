@@ -4,7 +4,8 @@ title: My Dog, Ginger
 permalink: /ginger/
 ---
 
-Ginger
+My dog, Ginger, is a peekapoo. Peekapoos are a mix between a poodle and a pekingese dog. She loves to do tricks, and even has her own [instagram account](https://www.instagram.com/mollie.and.ginger/?hl=en)! She will be turning 5 this September!
 
-
+    ![Dog, Ginger](IMG_7920.PNG)
+    
 
