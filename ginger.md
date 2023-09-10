@@ -8,4 +8,8 @@ My dog, Ginger, is a peekapoo. Peekapoos are a mix between a poodle and a peking
 
     ![Dog, Ginger](IMG_7920.PNG)
     
+She loves going on walks, steamed broccoli, and she will forever love her sister, Mollie, who was a boxer. She's very vocal, loves to sunbathe, and always wants to be next to someone.
+
+    ![Dogs, Mollie and Ginger](IMG_9905.JPG)
+
 
