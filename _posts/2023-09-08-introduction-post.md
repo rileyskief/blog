@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction Post
+author: Riley Skief
 ---
 
 My setup experience with this lab did not go as smoothly as I had hoped, though I have enjoyed learning the ways to do everything. I like the creativity aspect of creating a blog post. Everything, truly, was new to me:
