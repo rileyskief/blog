@@ -11,5 +11,3 @@ My setup experience with this lab did not go as smoothly as I had hoped, though 
 3. the concepts used to create and understand how to create a blog
 
 I struggled the most with downloading Ruby and Jekyll onto my laptop and finding out why my laptop initially rejected it. I am still trying to understand what all of the files in the Blog program contribute to the website. I am looking forward to becoming more proficient and confident in completing labs like this.
-
-
